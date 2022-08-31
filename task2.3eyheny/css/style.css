@@ -1,0 +1,39 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+
+
+div {
+    border: solid 4px gray;
+    padding: 10px 15px 40px 15px;
+    margin-top: 20px;
+    border-radius: 10px 0px 10px 0px;
+}
+h1 {
+    background-color: rgba(128, 128, 128, 0.408);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+div h2 {
+    color: rgb(212, 212, 56);
+    text-align: center;
+}
+div a {
+    color: red;
+    text-decoration: none;
+    
+}
+div div {
+    text-align: right;
+    border: none;
+    padding: 0 0 0 0;
+
+
+    }
